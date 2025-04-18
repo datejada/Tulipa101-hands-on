@@ -1,2 +1,2 @@
-# Tulipa101-hands-on
-basic case study in TulipaEnergyModel.jl
+# Tulipa101 Hands-On
+A basic case study for TulipaEnergyModel.jl
