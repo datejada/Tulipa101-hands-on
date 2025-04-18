@@ -1,0 +1,8 @@
+from_asset,to_asset
+ccgt,e_demand
+wind,e_demand
+wind,electrolizer
+solar,e_demand
+ens,e_demand
+electrolizer,h2_demand
+smr_ccs,h2_demand
