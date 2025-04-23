@@ -1,9 +1,0 @@
-from_asset,to_asset,milestone_year,variable_cost
-ccgt,e_demand,2030,50
-wind,e_demand,2030,5
-wind,electrolizer,2030,5
-solar,e_demand,2030,1
-ens,e_demand,2030,180
-electrolizer,h2_demand,2030,0
-smr_ccs,h2_demand,2030,100
-

@@ -1,0 +1,9 @@
+asset,milestone_year,commission_year,initial_units
+ccgt,2030,2030,1
+wind,2030,2030,1
+solar,2030,2030,1
+ens,2030,2030,1
+e_demand,2030,2030,1
+electrolizer,2030,2030,1
+h2_demand,2030,2030,1
+smr_ccs,2030,2030,1

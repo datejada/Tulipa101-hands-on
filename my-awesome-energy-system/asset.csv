@@ -1,9 +1,0 @@
-asset,type,capacity
-ccgt,producer,800
-wind,producer,400
-solar,producer,500
-ens,producer,1000
-e_demand,consumer,0
-electrolizer,conversion,100
-h2_demand,consumer,100
-smr_ccs,producer,100
