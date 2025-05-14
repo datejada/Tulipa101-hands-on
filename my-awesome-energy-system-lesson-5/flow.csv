@@ -1,0 +1,15 @@
+from_asset,to_asset,is_transport,capacity
+ccgt,e_demand,false,0
+wind,hub,false,0
+wind,electrolizer,false,0
+solar,e_demand,false,0
+ens,e_demand,false,0
+electrolizer,h2_demand,false,0
+smr_ccs,h2_demand,false,0
+wind_offshore,hub,false,0
+wind_offshore,electrolizer,false,0
+hub,e_demand,true,600
+battery,e_demand,false,0
+e_demand,battery,false,0
+h2_storage,h2_demand,false,0
+h2_demand,h2_storage,false,0

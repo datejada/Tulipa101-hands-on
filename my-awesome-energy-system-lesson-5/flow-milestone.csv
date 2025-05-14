@@ -1,0 +1,15 @@
+from_asset,to_asset,milestone_year,variable_cost
+ccgt,e_demand,2030,50
+wind,hub,2030,5
+wind,electrolizer,2030,5
+solar,e_demand,2030,1
+ens,e_demand,2030,180
+electrolizer,h2_demand,2030,0
+smr_ccs,h2_demand,2030,100
+wind_offshore,hub,2030,5
+wind_offshore,electrolizer,2030,5
+hub,e_demand,2030,0
+battery,e_demand,2030,0
+e_demand,battery,2030,0
+h2_storage,h2_demand,2030,0
+h2_demand,h2_storage,2030,0

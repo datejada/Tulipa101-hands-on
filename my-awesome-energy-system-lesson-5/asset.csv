@@ -1,0 +1,13 @@
+asset,type,capacity,capacity_storage_energy,is_seasonal
+ccgt,producer,800,0,false
+wind,producer,400,0,false
+solar,producer,500,0,false
+ens,producer,1000,0,false
+e_demand,consumer,0,0,false
+electrolizer,conversion,200,0,false
+h2_demand,consumer,100,0,false
+smr_ccs,producer,100,0,false
+hub,hub,0,0,false
+wind_offshore,producer,400,0,false
+battery,storage,20,40,false
+h2_storage,storage,100,16800,false
